@@ -108,7 +108,7 @@ In the actual state of the device, it is not connected to a real Authentication 
 
 ## License
 
-MIT
+GPL
 
 ## Author
 
